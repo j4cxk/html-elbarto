@@ -3,17 +3,19 @@ body {
 }
 
 body {
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin: 2%;
+    padding: 2%;
 }
 
 .main {
     color: rgb(68, 68, 68);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif , 'Arial Narrow', Arial, sans-serif;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 50px;
-    text-align: center;
+    text-align:center;
+    
 }
 
 .maintwo {

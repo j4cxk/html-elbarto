@@ -93,6 +93,7 @@ img {
     margin-bottom: 20px;
     margin-left: 2px;
     margin-right: 2px;
+    text-align: center;
     text-decoration: none;
     color: rgb(68, 68, 68);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -108,5 +109,6 @@ img {
     background-color: rgb(68, 68, 68);
     border-radius: 5px;
     padding:1%
+    
     
 }

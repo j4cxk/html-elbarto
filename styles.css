@@ -85,13 +85,13 @@ img {
     font-size: 13px;
 }
 .nav:hover {
-    color: rgb(100, 100, 100);
+    color: rgb(255, 255, 255);
     text-decoration: px underline;
     font-weight:450;
     font-size: 15px;
     transition: 0.5s;
     cursor: pointer;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(68, 68, 68);
     border-radius: 5px;
     padding:1%
     

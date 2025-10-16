@@ -21,6 +21,8 @@ body {
 .maintwo {
     color: rgb(68, 68, 68);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 18px;
     text-align: center;
 }
@@ -28,6 +30,8 @@ body {
 .mainp {
     color: rgb(78, 78, 78);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 15px;
     text-align: center;
 }
@@ -35,6 +39,8 @@ body {
 .hone {
     color: rgb(68, 68, 68);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 16px;
     text-align: left;
 }
@@ -42,6 +48,8 @@ body {
 .pone {
     color: rgb(80, 80, 80);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 14px;
     text-align: left;
 }
@@ -49,6 +57,8 @@ body {
 .olhone {
     color: rgb(80, 80, 80);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    margin-left: auto;
+    margin-right: auto;
     font-size: 14px;
     text-align: left;
 }
@@ -56,6 +66,8 @@ body {
 .lpone {
     color: rgb(99, 99, 99);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 12px;
     text-align: left;
 }

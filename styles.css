@@ -3,8 +3,8 @@ body {
 }
 
 body {
-    margin: 2%;
-    padding: 2%;
+    margin: 5%;
+    padding: 5%;
 }
 
 .main {
@@ -85,7 +85,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 .nav {
@@ -111,4 +111,14 @@ img {
     padding:1%
     
     
+}
+
+#main {
+    color:rgb(255, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif , 'Arial Narrow', Arial, sans-serif;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 22px;
+    text-align:center;
 }

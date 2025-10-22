@@ -88,6 +88,57 @@ img {
     border-radius: 0%;
 }
 
+.image-boxt {
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(236, 236, 236);
+    padding: 10px;
+    background-color: rgb(236, 236, 236);
+    margin: 20px auto;
+    overflow: hidden;
+}
+
+.image-boxt img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
+.image-box {
+  /* Define the box size */
+  width: 200px;
+  height: 200px;
+
+  /* Style the box itself */
+  border: 2px solid #ffffff; /* A border for visual containment */
+  padding: 10px; /* Space between the border and the image */
+  background-color: #ffffff; /* Light background for contrast */
+
+  /* Optional: Center the box on the page */
+  margin: 20px auto;
+
+  /* Important: Clip the image if it tries to overflow the box */
+  overflow: hidden;
+}
+
+.image-box img {
+  /* Make the image fill the defined dimensions of the box */
+  width: 100%;
+  height: 100%;
+
+  /* **Crucial for fitting/containing the image** */
+  /* This property tells the image how to fit within its dimensions: */
+  object-fit: contain;
+  /* Other useful values are: */
+  /* - **cover**: Fills the entire box, cropping the excess. */
+  /* - **fill**: Stretches the image to fit the box (may distort). */
+  /* - **none**: Displays the image at its original size, potentially cropping. */
+
+  /* Ensure the image is a block element to respect width/height */
+  display: block;
+}
+
 .nav {
     margin-top: 20px;
     margin-bottom: 20px;
